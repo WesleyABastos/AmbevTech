@@ -18,7 +18,7 @@ Projeto de automação de testes end-to-end (E2E) utilizando Cypress para testar
 # Para Linux/Mac (Bash):
 ```bash
 # Clone o repositório
-git clone [url-do-repositorio]
+git clone git@github.com:WesleyABastos/AmbevTech.git
 
 # Entre no diretório
 cd [nome-do-diretorio]
@@ -30,7 +30,7 @@ npm install
 # Para Windows (PowerShell/CMD):
 ```terminal
 # Clone o repositório
-git clone [git@github.com:WesleyABastos/AmbevTech.git]  
+git clone git@github.com:WesleyABastos/AmbevTech.git
 
 # Entre no diretório
 cd [nome-do-diretorio]
@@ -43,12 +43,14 @@ npm install
 
 # Para Linux/Mac (Bash):
 ```bash
-# Abre o Cypress Test Runner
+# Abre o Cypress Test Runner (console)
 npx cypress open
 
 # Executa os testes em modo headless
 npx cypress run
+
 ```
+
 
 # Para Windows (PowerShell/CMD):
 ```terminal
