@@ -94,14 +94,9 @@ npx cypress run
 - API Testing
 
 
-## 🤝 Suporte
-Em caso de dúvidas ou problemas, abra uma issue no repositório.
-
 ## ⚙️ Configuração
 O projeto está configurado com as seguintes especificações no cypress.config.js:
 - Timeout de carregamento de página: 30 segundos
 - Timeout de comandos: 20 segundos
 - Resolução dos testes: 1280x720
 - URL base: https://front.serverest.dev
-
-## 🧪 Executando os Testes
