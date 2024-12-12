@@ -1,0 +1,17 @@
+{
+  "name": "ambevtech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wesley Bastos",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.2",
+    "cypress": "^13.16.1",
+    "cypress-file-upload": "^5.0.8"
+  }
+}

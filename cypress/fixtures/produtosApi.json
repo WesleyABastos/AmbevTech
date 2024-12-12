@@ -1,0 +1,63 @@
+[
+    {
+      "nome": "Refrigerador - Brastemp Frost Free 375L",
+      "preco": "2799",
+      "descricao": "Conheça mais sobre o Refrigerador Brastemp Frost Free, com grande capacidade e design moderno.",
+      "quantidade": "50"
+    },
+    {
+      "nome": "Fogão - Consul 4 Bocas Inox",
+      "preco": "1349",
+      "descricao": "Conheça mais sobre o Fogão Consul 4 Bocas, com acendimento automático e acabamento em inox.",
+      "quantidade": "80"
+    },
+    {
+      "nome": "Micro-ondas - Philco 30 Litros",
+      "preco": "499",
+      "descricao": "Conheça mais sobre o Micro-ondas Philco, com 30 litros de capacidade e funções rápidas.",
+      "quantidade": "200"
+    },
+    {
+      "nome": "Televisão - Samsung 4K UHD 50''",
+      "preco": "2599",
+      "descricao": "Conheça mais sobre a TV Samsung 4K UHD, com tela de 50 polegadas e imagem ultradefinida.",
+      "quantidade": "70"
+    },
+    {
+      "nome": "Aspirador de Pó - Electrolux Vertical sem Fio",
+      "preco": "799",
+      "descricao": "Conheça mais sobre o Aspirador de Pó Electrolux, prático e sem fio para uma limpeza eficiente.",
+      "quantidade": "150"
+    },
+    {
+      "nome": "Liquidificador - Oster 1400W",
+      "preco": "349",
+      "descricao": "Conheça mais sobre o Liquidificador Oster, com potência de 1400W e lâminas resistentes.",
+      "quantidade": "300"
+    },
+    {
+      "nome": "Notebook - Dell Inspiron 15,6'' i5 8GB",
+      "preco": "3699",
+      "descricao": "Conheça mais sobre o Notebook Dell Inspiron, com processador i5 e 8GB de memória RAM.",
+      "quantidade": "40"
+    },
+    {
+      "nome": "Smartphone - Samsung Galaxy S21 128GB",
+      "preco": "3299",
+      "descricao": "Conheça mais sobre o Samsung Galaxy S21, com câmera de alta resolução e bateria de longa duração.",
+      "quantidade": "90"
+    },
+    {
+      "nome": "Ar-Condicionado - LG Dual Inverter 12.000 BTUs",
+      "preco": "2499",
+      "descricao": "Conheça mais sobre o Ar-Condicionado LG Dual Inverter, com alta eficiência energética e baixo ruído.",
+      "quantidade": "60"
+    },
+    {
+      "nome": "Cafeteira - Nespresso Essenza Mini",
+      "preco": "399",
+      "descricao": "Conheça mais sobre a Cafeteira Nespresso Essenza Mini, compacta e ideal para cafés especiais.",
+      "quantidade": "120"
+    }
+  ]
+  

@@ -1,0 +1,72 @@
+[
+  {
+    "nome": "Maquina de lavar - Eletrolux 12kg",
+    "preco": "1536",
+    "descricao": "Conheça mais sobre a Máquina de Lavar 12kg, com alta eficiência e economia.",
+    "quantidade": "100",
+    "imagem": "images/maquina.jpg"
+  },
+  {
+    "nome": "Smartphone Samsung Galaxy S21",
+    "preco": "4299",
+    "descricao": "Celular com câmera profissional, 128GB de memória e bateria de longa duração.",
+    "quantidade": "50",
+    "imagem": "images/smartphone.jpg"
+  },
+  {
+    "nome": "Notebook Dell Inspiron 15",
+    "preco": "3799",
+    "descricao": "Laptop potente com Intel i7, 16GB RAM e SSD de 512GB.",
+    "quantidade": "30",
+    "imagem": "images/notebook.jpg"
+  },
+  {
+    "nome": "Fone de ouvido Bluetooth Sony WH-1000XM4",
+    "preco": "1249",
+    "descricao": "Fone de ouvido com cancelamento de ruído líder no mercado e até 30 horas de autonomia.",
+    "quantidade": "80",
+    "imagem": "images/fone.jpg"
+  },
+  {
+    "nome": "Smart TV LG OLED 55 polegadas",
+    "preco": "6499",
+    "descricao": "TV 4K com tecnologia OLED, integração com assistente virtual e som imersivo.",
+    "quantidade": "20",
+    "imagem": "images/smart_tv.jpg"
+  },
+  {
+    "nome": "Refrigerador Brastemp Frost Free Duplex",
+    "preco": "3199",
+    "descricao": "Geladeira com design moderno, 400 litros e sistema frost free.",
+    "quantidade": "25",
+    "imagem": "images/geladeira.jpg"
+  },
+  {
+    "nome": "Cafeteira Nespresso Inissia",
+    "preco": "399",
+    "descricao": "Cafeteira compacta para café espresso com cápsulas.",
+    "quantidade": "200",
+    "imagem": "images/cafeteira.jpg"
+  },
+  {
+    "nome": "Aspirador de Pó Robô iRobot Roomba 960",
+    "preco": "2499",
+    "descricao": "Aspirador de pó inteligente com mapeamento de ambiente e controle via app.",
+    "quantidade": "15",
+    "imagem": "images/aspirador.jpg"
+  },
+  {
+    "nome": "Microondas Panasonic 32L",
+    "preco": "699",
+    "descricao": "Microondas com painel touch e várias funções pré-programadas.",
+    "quantidade": "40",
+    "imagem": "images/microondas.jpg"
+  },
+  {
+    "nome": "Bicicleta Caloi Mountain Bike Aro 29",
+    "preco": "1599",
+    "descricao": "Bicicleta para trilhas e aventuras, com suspensão ajustável.",
+    "quantidade": "10",
+    "imagem": "images/bicicleta.jpg"
+  }
+]

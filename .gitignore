@@ -1,0 +1,21 @@
+# Ignorar diretórios e arquivos do Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+
+# Ignorar relatórios do Allure
+allure-results/
+allure-report/
+
+# Ignorar diretório node_modules
+node_modules/
+
+# Ignorar arquivos de configuração e lock do npm
+package-lock.json
+
+# Ignorar arquivos de configuração do Cypress
+cypress.config.js
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db 
